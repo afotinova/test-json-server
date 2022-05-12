@@ -1,0 +1,44 @@
+{
+    "DiscountGroupCreated": {
+        "discountGroupId": "T-CAT",
+        "discounts": [
+            {
+            "minimumQuantity": 5,
+            "discountPercentage": 5
+            },
+            {
+            "minimumQuantity": 10,
+            "discountPercentage": 10
+            },
+            {
+            "minimumQuantity": 15,
+            "discountPercentage": 15
+            },
+            {
+            "minimumQuantity": 20,
+            "discountPercentage": 20
+            }
+        ]
+    },
+    "DiscountGroupUpdated": {
+        "discountGroupId": "T-CAT",
+        "discounts": [
+          {
+            "minimumQuantity": 10,
+            "discountPercentage": 5
+          },
+          {
+            "minimumQuantity": 20,
+            "discountPercentage": 10
+          },
+          {
+            "minimumQuantity": 30,
+            "discountPercentage": 15
+          },
+          {
+            "minimumQuantity": 40,
+            "discountPercentage": 20
+          }
+        ]
+    }
+}
