@@ -40,5 +40,23 @@
             "discountPercentage": 20
           }
         ]
+    },
+    "QuoteCreated": {
+        "erpQuoteNumber": "Q2307562",
+        "companyId": "someCompanyId",
+        "contactId": "someContactId",
+        "total": 1000000,
+        "dateIssued": "2022-04-29"
+        "expirationDate": "2022-07-29",
+        "pdfUrl": "https://google.com"
+    },
+    "QuoteUpdated": {
+        "erpQuoteNumber": "Q2307562",
+        "companyId": "someCompanyId",
+        "contactId": "someContactId",
+        "total": 2000000,
+        "dateIssued": "2021-03-25"
+        "expirationDate": "2022-10-15",
+        "pdfUrl": "https://yandex.com"
     }
 }
