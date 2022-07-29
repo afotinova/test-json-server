@@ -40,15 +40,16 @@
         "series":"A-SH-TEST",
         "gridAttributes":{
             "testpror2":"test 2",
-            "Precut Lengths": "25 ft/box",
-            "testprop":"test"
+            "Precut Lengths": "test25 ft/box",
+            "testprop":"test",
+            "Angle": "test"
         },
         "gridAttributesImperial":{
             "testprorimp2":"test 2",
-            "Nominal ID (In)":"2.047"
+            "Nominal ID (In)":"1.047"
         },
         "gridAttributesMetric":{
-            "Nominal ID (mm)":"52",
+            "Nominal ID (mm)":"12",
             "testpropmetr":"test23"
         }
     },
