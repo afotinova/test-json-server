@@ -39,8 +39,8 @@
         "itemNumber":"A53523-01-TEST123",
         "series":"A-SH-TEST123",
         "gridAttributes":{
-            "testpror2":"1test 2",
-            "Precut Lengths": "123test25 ft/box",
+            "testpror2":"12test 2",
+            "Precut Lengths": "12345test25 ft/box",
             "testprop":"test",
             "Angle": "test"
         },
