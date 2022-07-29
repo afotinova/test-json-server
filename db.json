@@ -38,7 +38,9 @@
     "ItemUpdated":{
         "itemNumber":"A53523-01-TEST",
         "series":"A-SH-TEST",
-        "gridAttributes":null,
+        "gridAttributes":{
+            "Precut Lengths": "25 ft/box"
+        },
         "gridAttributesImperial":{
             "Nominal ID (In)":"2.047"
         },
