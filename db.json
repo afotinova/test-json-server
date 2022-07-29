@@ -12,7 +12,6 @@
             "currency":"USD"
         },
         "discountGroupId":"testcatasv",
-        "testprop":"test",
         "website":true,
         "catalog":false,
         "amazon":false,
@@ -37,7 +36,15 @@
         }
     },
     "ItemUpdated":{
-        
+        "itemNumber":"A53523-01-TEST",
+        "series":"A-SH-TEST",
+        "gridAttributes":null,
+        "gridAttributesImperial":{
+            "Nominal ID (In)":"2.047"
+        },
+        "gridAttributesMetric":{
+            "Nominal ID (mm)":"52"
+        }
     },
     "SeriesUpdated":{
         
