@@ -4,15 +4,15 @@
         "itemNumber":"A53523-01-TEST",
         "series":"A-SH-TEST",
         "package":"CARTON",
-        "unitsPerPackage":600,
+        "unitsPerPackage":500,
         "color":"Black",
         "minimumQuantity":4,
         "price":{
             "value":264.00000000000000000000,
             "currency":"USD"
         },
-        "discountGroupId":null,
-        "website":false,
+        "discountGroupId":"testcatasv",
+        "website":true,
         "catalog":false,
         "amazon":false,
         "disabled":false,
