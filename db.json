@@ -40,7 +40,7 @@
         "series":"A-SH-TEST123",
         "gridAttributes":{
             "testpror2":"1test 2",
-            "Precut Lengths": "test25 ft/box",
+            "Precut Lengths": "123test25 ft/box",
             "testprop":"test",
             "Angle": "test"
         },
