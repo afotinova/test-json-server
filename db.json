@@ -37,7 +37,7 @@
     },
     "ItemUpdated":{
         "itemNumber":"A53523-01-TEST123",
-        "series":"A-SH-TEST",
+        "series":"A-SH-TEST123",
         "gridAttributes":{
             "testpror2":"1test 2",
             "Precut Lengths": "test25 ft/box",
