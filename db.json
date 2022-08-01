@@ -54,7 +54,7 @@
         }
     },
     "SeriesUpdated":{
-        "series":"A-SH-TEST123",
+        "series":"A-SH-TEST",
         "description":"Test description new",
         "colors":[
             "Black",
