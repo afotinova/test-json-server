@@ -40,9 +40,9 @@
         "series":"A-SH-TEST123",
         "gridAttributes":{
             "testpror2":"12test 2",
-            "Precut Lengths": "12345test25 ft/box",
+            "Precut Lengths":"12345test25 ft/box",
             "testprop":"test",
-            "Angle": "test"
+            "Angle":"test"
         },
         "gridAttributesImperial":{
             "testprorimp2":"test 2",
@@ -54,172 +54,172 @@
         }
     },
     "SeriesUpdated":{
-    "series":"A-SH-TEST123",
-    "description":"Test description new",
-    "colors":[
-        "Black",
-        "Yellow"
-    ],
-    "materials":[
-        "Polypropylene"
-    ],
-    "prop65":null,
-    "youtubeVideo":null,
-    "images":{
-        "diagram":{
-            "thumbnail":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.jpg"
-            },
-            "medium":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.jpg"
-            },
-            "large":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.jpg"
-            }
-        },
-        "silo":{
-            "thumbnail":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.jpg"
-            },
-            "medium":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.jpg"
-            },
-            "large":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.jpg"
-            }
-        },
-        "misc1":{
-            "thumbnail":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.jpg"
-            },
-            "medium":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.jpg"
-            },
-            "large":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.jpg"
-            }
-        },
-        "misc2":{
-            "thumbnail":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.jpg"
-            },
-            "medium":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.jpg"
-            },
-            "large":{
-                "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.webp",
-                "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.jpg"
-            }
-        }
-    },
-    "gridAttributes":null,
-    "gridAttributesImperial":[
-        "Buckle (In)",
-        "Strap (In)",
-        "Gripper (In)",
-        "Width (In)",
-        "Nominal ID (In)"
-    ],
-    "gridAttributesMetric":[
-        "Buckle (mm)",
-        "Strap (mm)",
-        "Gripper (mm)",
-        "Width (mm)",
-        "Nominal ID (mm)"
-    ],
-    "filterAttributes":{
-        "innerDiameterSmall":null,
-        "innerDiameterLarge":null,
-        "outerDiameterSmall":null,
-        "outerDiameterLarge":null
-    },
-    "filters":{
-        "color":[
+        "series":"A-SH-TEST123",
+        "description":"Test description new",
+        "colors":[
             "Black",
             "Yellow"
         ],
-        "material":[
+        "materials":[
             "Polypropylene"
         ],
-        "shape":[
-            
-        ],
-        "features":[
-            
-        ],
-        "threadType":[
-            
-        ],
-        "threadFittingType":[
-            
-        ],
-        "temperatureResistance":[
-            
-        ],
-        "nasmilSpec":[
-            
-        ],
-        "productType":{
-            "cap":[
-                
-            ],
-            "plug":[
-                
-            ],
-            "hoseProtection":[
-                "Other",
-                "Safeplast"
-            ],
-            "netting":[
-                
-            ],
-            "containerTube":[
-                
-            ],
-            "kit":[
-                
-            ]
+        "prop65":null,
+        "youtubeVideo":null,
+        "images":{
+            "diagram":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.jpg"
+                }
+            },
+            "silo":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.jpg"
+                }
+            },
+            "misc1":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.jpg"
+                }
+            },
+            "misc2":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.jpg"
+                }
+            }
         },
-        "applicationType":{
-            "automotive":[
+        "gridAttributes":null,
+        "gridAttributesImperial":[
+            "Buckle (In)",
+            "Strap (In)",
+            "Gripper (In)",
+            "Width (In)",
+            "Nominal ID (In)"
+        ],
+        "gridAttributesMetric":[
+            "Buckle (mm)",
+            "Strap (mm)",
+            "Gripper (mm)",
+            "Width (mm)",
+            "Nominal ID (mm)"
+        ],
+        "filterAttributes":{
+            "innerDiameterSmall":null,
+            "innerDiameterLarge":null,
+            "outerDiameterSmall":null,
+            "outerDiameterLarge":null
+        },
+        "filters":{
+            "color":[
+                "Black",
+                "Yellow"
+            ],
+            "material":[
+                "Polypropylene"
+            ],
+            "shape":[
                 
             ],
-            "compressedGas":[
+            "features":[
                 
             ],
-            "finishing":[
+            "threadType":[
                 
             ],
-            "hydraulic":[
+            "threadFittingType":[
                 
             ],
-            "masking":[
+            "temperatureResistance":[
                 
             ],
-            "medical":[
+            "nasmilSpec":[
                 
             ],
-            "packagingNetting":[
-                
-            ],
-            "pipeValveFlange":[
-                
-            ],
-            "other":[
-                
-            ]
+            "productType":{
+                "cap":[
+                    
+                ],
+                "plug":[
+                    
+                ],
+                "hoseProtection":[
+                    "Other",
+                    "Safeplast"
+                ],
+                "netting":[
+                    
+                ],
+                "containerTube":[
+                    
+                ],
+                "kit":[
+                    
+                ]
+            },
+            "applicationType":{
+                "automotive":[
+                    
+                ],
+                "compressedGas":[
+                    
+                ],
+                "finishing":[
+                    
+                ],
+                "hydraulic":[
+                    
+                ],
+                "masking":[
+                    
+                ],
+                "medical":[
+                    
+                ],
+                "packagingNetting":[
+                    
+                ],
+                "pipeValveFlange":[
+                    
+                ],
+                "other":[
+                    
+                ]
+            }
         }
     }
-}
 }
