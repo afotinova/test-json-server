@@ -224,5 +224,87 @@
                 ]
             }
         }
+    },
+    "OrderUpdated":{
+  "erpOrderNumber": "SO2590258",
+  "webOrderNumber": null,
+  "website": null,
+  "isSample": false,
+  "orderDate": "2020-09-14",
+  "contactId": "CT1027040",
+  "companyId": "1261",
+  "poNumber": "76680-00",
+  "paymentMethod": {
+    "type": "terms"
+  },
+  "shippingAddress": {
+    "company": "National Packaging Service",
+    "address": "1680 Bond St",
+    "address2": null,
+    "city": "Green Bay",
+    "stateProvince": "WI",
+    "postalCode": "54303",
+    "countryIso2": "US",
+    "countryIso3": "USA"
+  },
+  "billingAddress": {
+    "company": "NPS",
+    "address": "3303 Spirit Way",
+    "address2": null,
+    "city": "Green Bay",
+    "stateProvince": "WI",
+    "postalCode": "54304",
+    "countryIso2": "US",
+    "countryIso3": "USA"
+  },
+  "currency": "USD",
+  "subtotal": 195,
+  "surcharges": 0,
+  "shipping": 0,
+  "tax": 0,
+  "total": 195,
+  "lines": [
+    {
+      "sku": "2901AH1",
+      "quantity": 2000,
+      "price": 0.0975,
+      "total": 195
     }
+  ],
+  "packages": [
+    {
+      "packageId": "P7873173",
+      "shippedOnUtc": "2020-09-16",
+      "shippingMethod": {
+        "provider": "UPS",
+        "service": "GROUND"
+      },
+      "trackingNumber": "1Z1862640323643062",
+      "packageLines": [
+        {
+          "sku": "2901AH1",
+          "quantity": 1000
+        }
+      ]
+    },
+    {
+      "packageId": "P7873174",
+      "shippedOnUtc": "2020-09-16",
+      "shippingMethod": {
+        "provider": "UPS",
+        "service": "GROUND"
+      },
+      "trackingNumber": "1Z1862640323643071",
+      "packageLines": [
+        {
+          "sku": "2901AH1",
+          "quantity": 1000
+        }
+      ]
+    }
+  ],
+  "invoiceUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SO2590258/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14",
+  "packingSlipUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SO2590258/docs/packing-slips?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
 }
+}
+
