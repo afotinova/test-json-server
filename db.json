@@ -227,7 +227,7 @@
     },
     "OrderUpdated":{
         "erpOrderNumber":"SO2590158",
-        "webOrderNumber":513232,
+        "webOrderNumber":"513232",
         "website":"caplugs.com",
         "isSample":false,
         "orderDate":"2022-09-08",
