@@ -288,7 +288,7 @@
                 ]
             }
         ],
-        "invoiceUrl":"https://prod-erpservice.azurewebsites.net/api/erp/order/SO2590258/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14",
-        "packingSlipUrl":"https://prod-erpservice.azurewebsites.net/api/erp/order/SO2590258/docs/packing-slips?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
+        "invoiceUrl":"test.com",
+        "packingSlipUrl":"test.com"
     }
 }
