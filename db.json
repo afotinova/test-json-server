@@ -298,15 +298,15 @@
          "contactId": "CT1027040",
          "dateIssued": "2022-09-01",
          "expirationDate": "2022-12-01",
-        "pdfUrl": ""
+        "pdfUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SM0179919/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
     },
         "QuoteUpdated": {
         "erpQuoteNumber":"ERQ34871209",
          "customerQuoteNumber": "CSQN23487923",
          "companyId": "1261",
          "contactId": "CT1027040",
-         "dateIssued": "2022-09-01",
-         "expirationDate": "2022-12-01",
-        "pdfUrl": ""
+         "dateIssued": "2022-08-01",
+         "expirationDate": "2022-12-31",
+        "pdfUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SM0179919/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
     }
 }
