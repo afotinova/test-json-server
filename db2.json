@@ -1,0 +1,312 @@
+{
+    "SKUUpdated":{
+        "skuNumber":"SH-58523XETEST",
+        "itemNumber":"A53523-01-TEST",
+        "series":"A-SH-TEST",
+        "package":"CARTON",
+        "unitsPerPackage":500,
+        "color":"Black",
+        "minimumQuantity":4,
+        "price":{
+            "value":264.00000000000000000000,
+            "currency":"USD"
+        },
+        "discountGroupId":"testcatasv",
+        "website":true,
+        "catalog":false,
+        "amazon":false,
+        "disabled":false,
+        "shippingWeightAndDims":{
+            "length":{
+                "value":18.37500000000000000000,
+                "unit":"Inch"
+            },
+            "width":{
+                "value":10.37500000000000000000,
+                "unit":"Inch"
+            },
+            "height":{
+                "value":8.25000000000000000000,
+                "unit":"Inch"
+            },
+            "weight":{
+                "value":1.35002700000000000000,
+                "unit":"Pound"
+            }
+        }
+    },
+    "ItemUpdated":{
+        "itemNumber":"A53523-01-TEST123",
+        "series":"A-SH-TEST123",
+        "gridAttributes":{
+            "testpror2":"12test 2",
+            "Precut Lengths":"12345test25 ft/box",
+            "testprop":"test",
+            "Angle":"test"
+        },
+        "gridAttributesImperial":{
+            "testprorimp2":"test 2",
+            "Nominal ID (In)":"1.047"
+        },
+        "gridAttributesMetric":{
+            "Nominal ID (mm)":"12",
+            "testpropmetr":"test23"
+        }
+    },
+    "SeriesUpdated":{
+        "series":"A-SH-TEST",
+        "description":"Test description new123",
+        "colors":[
+            "Black",
+            "Yellow"
+        ],
+        "materials":[
+            "Polypropylene"
+        ],
+        "prop65":null,
+        "youtubeVideo":null,
+        "images":{
+            "diagram":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/diagram-large.jpg"
+                }
+            },
+            "silo":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/silo-large.jpg"
+                }
+            },
+            "misc1":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc1-large.jpg"
+                }
+            },
+            "misc2":{
+                "thumbnail":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-thumbnail.jpg"
+                },
+                "medium":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-medium.jpg"
+                },
+                "large":{
+                    "webp":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.webp",
+                    "jpg":"https://prodecomm.blob.core.windows.net/series-assets/spssp-series/misc2-large.jpg"
+                }
+            }
+        },
+        "gridAttributes":null,
+        "gridAttributesImperial":[
+            "Buckle (In)",
+            "Strap (In)",
+            "Gripper (In)",
+            "Width (In)",
+            "Nominal ID (In)"
+        ],
+        "gridAttributesMetric":[
+            "Buckle (mm)",
+            "Strap (mm)",
+            "Gripper (mm)",
+            "Width (mm)",
+            "Nominal ID (mm)"
+        ],
+        "filterAttributes":{
+            "innerDiameterSmall":null,
+            "innerDiameterLarge":null,
+            "outerDiameterSmall":null,
+            "outerDiameterLarge":null
+        },
+        "filters":{
+            "test123":[
+                "testnew"
+            ],
+            "color":[
+                "Black",
+                "Yellow"
+            ],
+            "material":[
+                "Polypropylene"
+            ],
+            "shape":[
+                
+            ],
+            "features":[
+                
+            ],
+            "threadType":[
+                
+            ],
+            "threadFittingType":[
+                
+            ],
+            "temperatureResistance":[
+                
+            ],
+            "nasmilSpec":[
+                
+            ],
+            "productType":{
+                "cap":[
+                    
+                ],
+                "plug":[
+                    
+                ],
+                "hoseProtection":[
+                    "Other",
+                    "Safeplast"
+                ],
+                "netting":[
+                    
+                ],
+                "containerTube":[
+                    
+                ],
+                "kit":[
+                    
+                ]
+            },
+            "applicationType":{
+                "automotive":[
+                    
+                ],
+                "compressedGas":[
+                    
+                ],
+                "finishing":[
+                    
+                ],
+                "hydraulic":[
+                    
+                ],
+                "masking":[
+                    
+                ],
+                "medical":[
+                    
+                ],
+                "packagingNetting":[
+                    
+                ],
+                "pipeValveFlange":[
+                    
+                ],
+                "other":[
+                    
+                ]
+            }
+        }
+    },
+    "OrderUpdated":{
+        "erpOrderNumber":"SO2590158",
+        "webOrderNumber":"513232",
+        "website":"caplugs.com",
+        "isSample":false,
+        "orderDate":"2022-09-08",
+        "contactId":"CT1027040",
+        "companyId":"1261",
+        "poNumber":"12376680-00",
+        "paymentMethod":{
+            "type":"terms"
+        },
+        "shippingAddress":{
+            "company":"National Packaging Service",
+            "address":"123 Bond St",
+            "address2":null,
+            "city":"Green Bay",
+            "stateProvince":"WI",
+            "postalCode":"54303",
+            "countryIso2":"US",
+            "countryIso3":"USA"
+        },
+        "billingAddress":{
+            "company":"NPS",
+            "address":"123 Spirit Way",
+            "address2":null,
+            "city":"Green Bay",
+            "stateProvince":"WI",
+            "postalCode":"54304",
+            "countryIso2":"US",
+            "countryIso3":"USA"
+        },
+        "currency":"USD",
+        "subtotal":195,
+        "surcharges":0,
+        "shipping":0,
+        "tax":0,
+        "total":195,
+        "lines":[
+            {
+                "sku":"99191366",
+                "quantity":3,
+                "price":65,
+                "total":195
+            }
+        ],
+        "packages":[
+            {
+                "packageId":"P7873173",
+                "shippedOnUtc":"2022-09-16",
+                "shippingMethod":{
+                    "provider":"UPS",
+                    "service":"GROUND"
+                },
+                "trackingNumber":"1Z1862640323643062",
+                "packageLines":[
+                    {
+                        "sku":"99191366",
+                        "quantity":2
+                    }
+                ]
+            }
+        ],
+        "invoiceUrl":"test.com",
+        "packingSlipUrl":"test.com"
+    },
+    "QuoteCreated": {
+        "erpQuoteNumber":"ERQ34871209",
+         "customerQuoteNumber": "CSQN23487923",
+         "companyId": "1261",
+         "contactId": "CT1027040",
+         "dateIssued": "2022-09-01",
+         "expirationDate": "2022-12-01",
+        "pdfUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SM0179919/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
+    },
+        "QuoteUpdated": {
+        "erpQuoteNumber":"ERQ34871209",
+         "customerQuoteNumber": "CSQN23487923",
+         "companyId": "1261",
+         "contactId": "CT1027040",
+         "dateIssued": "2022-08-01",
+         "expirationDate": "2022-12-31",
+        "pdfUrl": "https://prod-erpservice.azurewebsites.net/api/erp/order/SM0179919/docs/invoices?erp=nav&apiKey=d18d787f-bd52-47d9-ba3d-667fd7098a14"
+    }
+}
